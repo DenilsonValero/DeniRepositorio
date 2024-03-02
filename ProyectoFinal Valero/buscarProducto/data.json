@@ -1,0 +1,16 @@
+[
+    {"id":1 , "nombre":"Monitor" ,"marca":"Samsung", "precio": 1000 , "stock":5, "img": "./img/MS.jpg"},
+    {"id":2 , "nombre":"Celular" ,"marca":"Motorla", "precio":3000 , "stock":6,"img": "./img/Motorola.jpg"},
+    {"id":3 , "nombre":"Televisor" ,"marca":"LG", "precio":4000 , "stock":8,"img": "./img/TELELG.avif"},
+    {"id":4 , "nombre":"Reloj" ,"marca":"Apple", "precio":7000 , "stock":19,"img": "./img/RelojApple.webp"},
+
+    {"id":5 , "nombre":"Monitor" ,"marca":"Apple", "precio":50000 , "stock":33,"img": "./img/MA.png"},
+    {"id":6 , "nombre":"Celular" ,"marca":"Samsung", "precio":2444 , "stock":57,"img": "./img/Samsung.jpg"},
+    {"id":7 , "nombre":"Televisor" ,"marca":"Philips", "precio":1800 , "stock":13,"img": "./img/TelePHILIPS.webp"},
+    {"id":8 , "nombre":"Reloj" ,"marca":"Samsung", "precio":3999 , "stock":25,"img": "./img/RelojSamsung.avif"},
+
+    {"id":9 , "nombre":"Monitor" ,"marca":"LG", "precio":9999 , "stock":24,"img": "./img/MLG.webp"},
+    {"id":10 , "nombre":"Celular" ,"marca":"Apple", "precio":10000 , "stock":46,"img": "./img/Apple.jpg"},
+    {"id":11 , "nombre":"Televisor" ,"marca":"Huawei", "precio":3999 , "stock":78,"img": "./img/TeleHuawei.jpg"},
+    {"id":12 , "nombre":"Reloj" ,"marca":"Huawei", "precio": 5999, "stock":35,"img": "./img/RelojHuawei.webp"}
+]
